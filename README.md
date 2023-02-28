@@ -1,5 +1,4 @@
-# forking-tutorial🍴
-This repo is used as a demo for the in-class git fork guide
+# What are the advantages of sporks?
 
-## About forks
-Forking a repository makes an exact copy another project that resides on your personal account. This acts as a connection between your own repo and the owner's repo. Additionally, this allows the owner to protect their own code by preventing users from pushing to it directly but still giving developers a way to contribute in a non-intrusive way. Forking is very common in open-source software development.
+Image result for argument for why sporks are better
+It's obvious that the spork's benefits lie in its ability to both skewer bigger, slipperier pieces of food and also scoop up sauce and smaller pieces that would fall right through a fork. You wont miss a morsel with a spork, whereas with a fork you might be chasing around grains of rice for eternity.
